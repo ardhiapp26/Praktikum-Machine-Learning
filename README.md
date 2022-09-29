@@ -6,5 +6,7 @@ Nama Anggota Kelompok :
 2. Try Wulandari - 201910370311356
 
 Dataset : Tomato leaf disease detection 
+
 Link Dataset : https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf
+
 Referensi Jurnal : Pendeteksian Septoria pada Tanaman Tomat dengan Metode Deep Learning berbasis Raspberry Pi 
